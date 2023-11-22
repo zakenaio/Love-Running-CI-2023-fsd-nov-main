@@ -167,6 +167,12 @@ main {
         /* Push main content down to accommodate larger header */
         margin-top: 79px;
     }
+
+    /* hero */
+    #cover-text {
+        width: 300px;
+        right: 50px;
+    }
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
